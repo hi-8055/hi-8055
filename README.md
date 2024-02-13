@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Dev
 - 👀 I’m interested in building projects
 - 🌱 I’m currently learning machine learning with python
-- 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me :
-- lest meet at:
-- 
+    lets meet at:
+  
 
 
 <!---
