@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Dev
 - 👀 I’m interested in building projects
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning machine learning with python
+- 💞️ I’m looking to collaborate on MNC
+- 📫 How to reach me :
+- lest meet at:
+- 
+
 
 <!---
 hi-8055/hi-8055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
